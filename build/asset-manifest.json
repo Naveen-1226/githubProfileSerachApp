@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/githubProfileSearchApp/static/css/main.c9f0eb16.css",
-    "main.js": "/githubProfileSearchApp/static/js/main.2be5af1a.js",
-    "static/media/image.png": "/githubProfileSearchApp/static/media/image.a29135e4b0ea137b79ce.png",
-    "static/media/img.png": "/githubProfileSearchApp/static/media/img.d30d4615491e788db413.png",
-    "static/media/img_1.png": "/githubProfileSearchApp/static/media/img_1.c91b8c2889c197bbd3d2.png",
-    "static/media/img_4.png": "/githubProfileSearchApp/static/media/img_4.2b542b5110915f5a6f2a.png",
-    "static/media/img_3.png": "/githubProfileSearchApp/static/media/img_3.23c6e9cc62c49fc6c141.png",
-    "index.html": "/githubProfileSearchApp/index.html",
-    "main.c9f0eb16.css.map": "/githubProfileSearchApp/static/css/main.c9f0eb16.css.map",
-    "main.2be5af1a.js.map": "/githubProfileSearchApp/static/js/main.2be5af1a.js.map"
+    "main.css": "/githubprofilesearchapp/static/css/main.c9f0eb16.css",
+    "main.js": "/githubprofilesearchapp/static/js/main.93f98272.js",
+    "static/media/image.png": "/githubprofilesearchapp/static/media/image.a29135e4b0ea137b79ce.png",
+    "static/media/img.png": "/githubprofilesearchapp/static/media/img.d30d4615491e788db413.png",
+    "static/media/img_1.png": "/githubprofilesearchapp/static/media/img_1.c91b8c2889c197bbd3d2.png",
+    "static/media/img_4.png": "/githubprofilesearchapp/static/media/img_4.2b542b5110915f5a6f2a.png",
+    "static/media/img_3.png": "/githubprofilesearchapp/static/media/img_3.23c6e9cc62c49fc6c141.png",
+    "index.html": "/githubprofilesearchapp/index.html",
+    "main.c9f0eb16.css.map": "/githubprofilesearchapp/static/css/main.c9f0eb16.css.map",
+    "main.93f98272.js.map": "/githubprofilesearchapp/static/js/main.93f98272.js.map"
   },
   "entrypoints": [
     "static/css/main.c9f0eb16.css",
-    "static/js/main.2be5af1a.js"
+    "static/js/main.93f98272.js"
   ]
 }
